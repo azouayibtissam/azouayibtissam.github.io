@@ -1,9 +1,6 @@
 Basic JavaScript ToDo App
 ======
-Vanilla (**JavaScript**)-only
 
-#### Screenshot
-![Screenshot software](https://raw.githubusercontent.com/Bartekus/todo-js-basic/master/todo-js-basic.png "screenshot software")
 
 
 
@@ -11,19 +8,10 @@ Vanilla (**JavaScript**)-only
 
 Just a basic todo app that I wrote using vanilla **JavaScript** so there's not much to it.
 
-## Code Example
+## link 
 
-```
-var taskCompleted = function() {               // Mark a task as complete
-  var listItem = this.parentNode;              // We assign it for readability
-  completedTasksHolder.appendChild(listItem);  // Append the task list item to the #completed-tasks
-  bindTaskEvents(listItem, taskIncomplete);    // We bind it to the opposite holder
-};
-```
+[link to the page](https://github.com/azouayibtissam/azouayibtissam.github.io.git)
 
-## Motivation
-
-Learning and enforcing good structural and practical **strategies** for JavaScript development.
 
 ### Directory Layout
 
@@ -43,7 +31,7 @@ Learning and enforcing good structural and practical **strategies** for JavaScri
 Checkout this repo and open index.html:
 
 ```
-	> git clone git@github.com:Bartekus/todo-js-basic.git
+	> git clone git@github.com:azouayibtissam/todo-js-basic.git
 	> cd todo-js-basic
 	> open index.html
 ```
@@ -60,26 +48,12 @@ Use to add/edit/delete tasks without persistence (no backend).
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-0.1.0 Finalized the example
 
 ## Tests
 
 Basic non-automated manual browser test aka no test :P
 
-## Contributors
 
-Standing on the shoulders of all the giants before me.
 
-## Contact
-#### Bartek Kus
-* Homepage: http://bartekus.com
-* E-mail: bartekus@gmail.com
-* Twitter: [@Bartekus](https://twitter.com/Bartekus "Bartekus on twitter")
 
-## License
 
-Copyright (c) 2015 Bartek Kus
-
-Licensed under the MIT license
