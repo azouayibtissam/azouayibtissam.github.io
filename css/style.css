@@ -4,14 +4,17 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
   margin:0; 
+  background-image: url("https://images.unsplash.com/photo-1543157145-f78c636d023d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2VycyUyMHdoaXRlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80")
   
-  
+  /*https://thumbs.dreamstime.com/z/empty-to-do-list-laptop-cup-coffee-white-background-150126862.jpg*/
 }
 
+
 #background {
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0.5));
+  background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(128,0,0,0.3));
 }
   
+
 
 .container {
 
@@ -52,7 +55,7 @@ h1{
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   text-transform: uppercase;
   text-align: center;
-  background-color: rgba(255,0,255,0.3);
+  background-color: rgba(0,0,255,0.1);
 }
 
 
