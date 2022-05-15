@@ -1,15 +1,16 @@
 /* Basic Style */
 body {
-  background: #fff;
+  
   color: #333;
   font-family: Lato, sans-serif;
 
   background-color:white;
-  background-image:url("https://img.freepik.com/psd-gratuit/agenda-planificateur-hebdomadaire-quotidien_23-2148474975.jpg?w=2000g");
   margin:0; 
 }
 
+
 .container {
+
   display: block;
   width: 400px;
   margin: 100px auto 0;
@@ -42,14 +43,22 @@ button:hover {
   color: #333;
 }
 /* Heading */
-h1{
-  color:#3cb371;
+.backgroundh1{
+  color:#ffffff;
   text-transform: uppercase;
+  text-align: center;
+  background-color: green;
+}
+
+.background{
+  opacity: 0.5;
+  background-image:url("https://img.freepik.com/psd-gratuit/agenda-planificateur-hebdomadaire-quotidien_23-2148474975.jpg?w=2000g");
 }
 
 
 h3,
 label[for='new-task'] {
+
   color: #333;
   font-weight: 700;
   font-size: 15px;
