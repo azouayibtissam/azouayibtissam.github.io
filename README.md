@@ -3,11 +3,6 @@ Basic JavaScript ToDo App
 
 
 
-
-## Synopsis
-
-Just a basic todo app that I wrote using vanilla **JavaScript** so there's not much to it.
-
 ## link 
 
 [link to the page](https://azouayibtissam.github.io/)
@@ -31,8 +26,8 @@ Just a basic todo app that I wrote using vanilla **JavaScript** so there's not m
 Checkout this repo and open index.html:
 
 ```
-	> git clone git@github.com:azouayibtissam/todo-js-basic.git
-	> cd todo-js-basic
+	> git clone https://github.com/azouayibtissam/azouayibtissam.github.io.git
+	> cd azouayibtissam.github.io.git
 	> open index.html
 ```
 
@@ -49,9 +44,6 @@ Use to add/edit/delete tasks without persistence (no backend).
 5. Submit a pull request :D
 
 
-## Tests
-
-Basic non-automated manual browser test aka no test :P
 
 
 
