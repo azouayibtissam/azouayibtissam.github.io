@@ -34,7 +34,8 @@ var addTask = function() {                            // Add a new task
   var listItem = createNewTaskElement(listItemName);  // Create a new list item with the text from #new-task
   incompleteTasksHolder.appendChild(listItem);        // Append listItem to incompleteTasksHolder
   bindTaskEvents(listItem, taskCompleted);            // We bind it to the incomplete holder
-  taskInput.value = "";                               // Resets the field
+  taskInput.value = "";     
+  alert("Task added succesfully !")                          // Resets the field
 };
 
 var editTask = function() {                                     // Edit an existing task
