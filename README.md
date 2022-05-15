@@ -10,7 +10,7 @@ Just a basic todo app that I wrote using vanilla **JavaScript** so there's not m
 
 ## link 
 
-[link to the page](https://github.com/azouayibtissam/azouayibtissam.github.io.git)
+[link to the page](https://azouayibtissam.github.io/)
 
 
 ### Directory Layout

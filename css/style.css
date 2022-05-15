@@ -3,11 +3,15 @@ body {
   
   color: #333;
   font-family: Lato, sans-serif;
-
-  background-color:white;
   margin:0; 
+  
+  
 }
 
+#background {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,0.5));
+}
+  
 
 .container {
 
@@ -43,17 +47,14 @@ button:hover {
   color: #333;
 }
 /* Heading */
-.backgroundh1{
-  color:#ffffff;
+h1{
+  color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   text-transform: uppercase;
   text-align: center;
-  background-color: green;
+  background-color: rgba(255,0,255,0.3);
 }
 
-.background{
-  opacity: 0.5;
-  background-image:url("https://img.freepik.com/psd-gratuit/agenda-planificateur-hebdomadaire-quotidien_23-2148474975.jpg?w=2000g");
-}
 
 
 h3,
